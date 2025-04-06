@@ -30,6 +30,10 @@ st.markdown(
         textarea {{
             font-size: 30px !important;
         }}
+        /* ปรับขนาดตัวอักษรของ number_input */
+        .stNumberInput label {{
+            font-size: 20px !important;
+        }}
     </style>
     """,
     unsafe_allow_html=True
