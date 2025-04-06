@@ -28,11 +28,7 @@ st.markdown(
         }}
         /* ปรับขนาดตัวอักษรของ text_area */
         textarea {{
-            font-size: 60px !important;
-        }}
-        /* ปรับขนาดตัวอักษรของ number_input */
-        .stNumberInput label {{
-            font-size: 60px !important;
+            font-size: 30px !important;
         }}
     </style>
     """,
