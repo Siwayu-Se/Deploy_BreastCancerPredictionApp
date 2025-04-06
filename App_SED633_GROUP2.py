@@ -36,7 +36,7 @@ st.markdown(
 )
 
 # โหลดโมเดลที่เซฟไว้
-model = joblib.load('mlp_model.pkl')
+model = joblib.load('model_mlp_best.pkl')
 
 # โหลด scaler ที่ใช้ตอนเทรน (ถ้ามี)
 scaler = joblib.load('scaler.pkl')
