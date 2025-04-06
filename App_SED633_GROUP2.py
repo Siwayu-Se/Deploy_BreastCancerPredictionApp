@@ -22,7 +22,7 @@ st.markdown(
         }}
         .history {{
             background-color: rgba(255, 255, 255, 0.8);
-            padding: 20px;
+            padding: 10px;
             border-radius: 5px;
             margin-top: 10px;
         }}
@@ -32,7 +32,7 @@ st.markdown(
         }}
         /* ปรับขนาดตัวอักษรของ number_input */
         .stNumberInput label {{
-            font-size: 20px !important;
+            font-size: 40px !important;
         }}
     </style>
     """,
